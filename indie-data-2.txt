@@ -4,9 +4,9 @@ GLY-M,glym.jpg
 GLY-MF,glymf.jpg
 VG,vg.jpg
 BRD,brd.jpeg
-OLM,olmi.jpeg
-OLM H,olmh.jpeg
-OLM AM,oam.jpeg
+OLMI,olmi.jpeg
+OLMI H,olmh.jpeg
+OLMI AM,oam.jpeg
 TRIO,trio.jpeg
 TEL,tel.jpeg
 TEL H,telh.jpeg
@@ -15,14 +15,28 @@ T-HA,tha.jpeg
 CH,ch.jpeg
 M50,m50.jpeg
 CAP,cap.jpeg
+CEFO,cefo.jpeg
+CV,cv.jpeg
 CEFA,cefa.jpg
 SG,sg.jpg
 K2,k2.jpg
 OZO,ozo.jpg
 OZ-L,ozl.jpg
+CLO,clo.jpg
 SP,sp.jpg
 CLO-TH,cloth.jpg
+SPAA,spaa.jpg
+TORI,tori.jpeg
+TO-T,tot.jpeg
+SIN,sin.jpeg
+LIZO,liso.jpeg
 JO-M,jom.jpg
 LC,lc.jpg
 REKI,reki.jpg
 CORT,cort.jpg
+LUNG,lung.jpeg
+GUT,gut.jpeg
+UDC,udc.jpeg
+TIW,tiw.jpeg
+RE- AC,reac.jpg
+PRO,prod.jpg
