@@ -8,8 +8,8 @@ OLMI,olmi.jpeg
 OLMI H,olmh.jpeg
 OLMI AM,oam.jpeg
 TRIO,trio.jpeg
-TEL,tel.jpeg
-TEL H,telh.jpeg
+TEL,telh.jpeg
+TEL H,tel.jpeg
 T-AM,tam.jpeg
 T-HA,tha.jpeg
 CH,ch.jpeg
@@ -26,11 +26,11 @@ CLO,clo.jpg
 SP,sp.jpg
 CLO-TH,cloth.jpg
 SPAA,spaa.jpg
-xt,xt.jpg
-fort,fort.jpg
+SIN,sin.jpeg
 TORI,tori.jpeg
 TO-T,tot.jpeg
-SIN,sin.jpeg
+xt,xt.jpg
+fort,fort.jpg
 LIZO,liso.jpeg
 JO-M,jom.jpg
 LC,lc.jpg
