@@ -26,6 +26,7 @@ CLO,clo.jpg
 SP,sp.jpg
 CLO-TH,cloth.jpg
 SPAA,spaa.jpg
+xt,xt.jpg
 TORI,tori.jpeg
 TO-T,tot.jpeg
 SIN,sin.jpeg
