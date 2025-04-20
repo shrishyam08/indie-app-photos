@@ -15,13 +15,13 @@ T-HA,tha.jpeg
 CH,ch.jpeg
 M50,m50.jpeg
 CAP,cap.jpeg
-RE- AC,reac.jpg
+RE-AC,reac.jpg
 PRO,prod.jpg
 CAN,can.jpg
 CEFO,cefo.jpeg
 CV,cv.jpeg
 CEFA,cefa.jpg
-swi-o,swo.jpg
+swo,swo.jpg
 LIZO,liso.jpeg
 ZOX,zox.jpg
 LC,lc.jpg
