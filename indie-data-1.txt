@@ -16,6 +16,7 @@ CH,ch.jpeg
 M50,m50.jpeg
 CAP,cap.jpeg
 CEFA,cefa.jpg
+SWO,swo.jpg
 SG,sg.jpg
 K2,k2.jpg
 OZO,ozo.jpg
