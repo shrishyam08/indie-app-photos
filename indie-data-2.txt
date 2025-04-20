@@ -48,4 +48,3 @@ LUNG,lung.jpeg
 GUT,gut.jpeg
 UDC,udc.jpeg
 TIW,tiw.jpeg
-
