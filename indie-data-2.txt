@@ -35,6 +35,7 @@ LIZO,liso.jpeg
 JO-M,jom.jpg
 LC,lc.jpg
 REKI,reki.jpg
+indi,indi.jpg
 CORT,cort.jpg
 LUNG,lung.jpeg
 GUT,gut.jpeg
