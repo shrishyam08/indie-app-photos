@@ -1,5 +1,8 @@
 COM,comp.jpg
 R&D,rd.jpg
+OXO,OXO.jpeg
+WILDA,WILDA.jpeg
+DINE,DINE.jpeg
 GLY-M,glym.jpg
 GLY-MF,glymf.jpg
 VG,vg.jpg
